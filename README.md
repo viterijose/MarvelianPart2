@@ -1,1 +1,2 @@
-# MarvelianPart2
+# MarvelianCerebros
+Rutgers Project 2
